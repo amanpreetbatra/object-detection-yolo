@@ -26,6 +26,6 @@ http://127.0.0.1:8000/index
 
 Hope this project useful.
 
-July 11, 2019
+October 16, 2019
 
-Tran Le Anh
+amanpreet batra
